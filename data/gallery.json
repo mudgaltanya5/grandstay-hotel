@@ -1,0 +1,40 @@
+{
+  "Galleries": [
+    {
+      "id": 1,
+      "title": "Luxury Room",
+      "category": "Rooms",
+      "image": "/images/rooms1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Deluxe Suite",
+      "category": "Rooms",
+      "image": "/images/rooms2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Swimming Pool",
+      "category": "Pool",
+      "image": "/images/hotel3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hotel Restaurant",
+      "category": "Restaurant",
+      "image": "/images/restaurants.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Hotel Lobby",
+      "category": "Hotel",
+      "image": "/images/lobby.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Spa",
+      "category": "Spa",
+      "image": "/images/spa.png"
+    }
+  ]
+}

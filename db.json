@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Tanya",
+      "email": "tanya@gmail.com",
+      "phone": "9876543210",
+      "password": "123456"
+    },
+    {
+      "id": "CZjNGeNa3G8",
+      "name": "Archi",
+      "email": "archi@gmail.com",
+      "phone": "9876543210",
+      "password": "123456"
+    },
+    {
+      "id": "88B8R4STcsg",
+      "email": "mudgaltanya5@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "BofdnFpXdPA",
+      "email": "mudgaltanya5@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "SzuLACU3fsQ",
+      "email": "test@example.com",
+      "password": "123456"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Deluxe Room",
+      "price": 3500,
+      "capacity": 2,
+      "image": "/images/deluxe-room.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Luxury Suite",
+      "price": 5500,
+      "capacity": 4,
+      "image": "/images/luxury-suite.jpg"
+    }
+  ],
+  "bookings": []
+}
